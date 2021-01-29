@@ -1,6 +1,6 @@
 # simple-minimax-tictactoe
 ## Description
-A simple implementation of the minimax algorithm to make an advanced tic-tac-toe computer.
+A simple implementation of the minimax algorithm to make a tic-tac-toe computer.
 
 ##  Usage
 There are three available agents to play the game:
@@ -21,5 +21,3 @@ agent_play_sim(agent_x, agent_o, epochs)
 ## Minimax algorithm implementation
 The algorithm used was based on the psuedocode found on https://en.wikipedia.org/wiki/Minimax#Pseudocode
 
-## Further uses
-With obvious tweaks to the game functions this same agent could be used for more complicated games such as connect 4. Furthermore with the addition of alpha-beta pruning the algorithm can be used to create a chess computer.
